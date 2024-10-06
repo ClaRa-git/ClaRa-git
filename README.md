@@ -30,7 +30,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
+				<img align="center src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
 			</td>
 			<td>
 				<img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
