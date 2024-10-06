@@ -45,6 +45,8 @@
 			</td>
 		</tr>
     	</table>
+	<hr>
+	<h3>My repositories :</h3>
 	 <p align="left">
 	    <a href="https://github.com/ClaRa-git?tab=repositories" target="_blank"
 	      ><img
