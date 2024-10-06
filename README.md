@@ -42,4 +42,18 @@
 		</tr>
       </table>   
 	<h3>Programmming languages :</h3>
+	<table>
+		<tr>
+			<td>
+	                      <p align="left">
+	                              <img src="https://skillicons.dev/icons?i=c,python" alt="Frontend Development"/>
+	                      </p>
+			</td>
+			<td>
+	                      <p align="left">
+	                              <img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
+	                      </p>
+	              </td>
+		</tr>
+      </table>  
 </body>
