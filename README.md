@@ -27,18 +27,10 @@
           <tr>
               <td>
                   <div class="skills-section">
-                      <h3 align="center">Programming Languages :</h3>
-                      <p align="center">
-                          <a href="https://skillicons.dev">
-                              <img src="https://skillicons.dev/icons?i=threejs,typescript,javascript,php" alt="Programming Languages"/>
-                          </a>
-                      </p>
-                  </div>
-                  <div class="skills-section">
                       <h3 align="left">Frontend Development :</h3>
                       <p align="left">
                           <a href="https://skillicons.dev">
-                              <img src="https://skillicons.dev/icons?i=bootstrap,html,css,react" alt="Frontend Development"/>
+                              <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
                           </a>
                       </p>
                   </div>
@@ -46,38 +38,12 @@
                       <h3 align="left">Backend Development :</h3>
                       <p align="left">
                           <a href="https://skillicons.dev">
-                              <img src="https://skillicons.dev/icons?i=nodejs,nginx" alt="Backend Development"/>
-                          </a>
-                      </p>
-                  </div>
-              </td>
-              <td>
-                  <div class="skills-section">
-                      <h3 align="left">Framework :</h3>
-                      <p align="left">
-                          <a href="https://skillicons.dev">
-                              <img src="https://skillicons.dev/icons?i=symfony,react" alt="Framework"/>
-                          </a>
-                      </p>
-                  </div>
-                  <div class="skills-section">
-                      <h3 align="left">DevOps :</h3>
-                      <p align="left">
-                          <a href="https://skillicons.dev">
-                              <img src="https://skillicons.dev/icons?i=docker" alt="DevOps"/>
-                          </a>
-                      </p>
-                  </div>
-                  <div class="skills-section">
-                      <h3 align="left">Software :</h3>
-                      <p align="left">
-                          <a href="https://skillicons.dev">
-                              <img src="https://skillicons.dev/icons?i=blender,figma" alt="Software"/>
+                              <img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
                           </a>
                       </p>
                   </div>
               </td>
           </tr>
-      </table>  
+      </table>   
 	<h3>Programmming languages :</h3>
 </body>
