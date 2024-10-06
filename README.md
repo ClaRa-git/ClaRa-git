@@ -10,7 +10,7 @@
         height="50"
         width="60"
     /></a>
-    <a href="rameau.claire.cr@gmail.com" target="blank"
+    <a href="mailto:rameau.claire.cr@gmail.com" target="blank"
       ><img
         align="center"
         src="https://skillicons.dev/icons?i=gmail"
