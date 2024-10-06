@@ -72,7 +72,31 @@
 				</p>
 			</td>
 		</tr>
-	</table>   
+	</table>
+	<table>
+		<tr>
+			<th><h3 align="left">DevOps :</h3></th>
+	        <th><h3 align="left">Frameworks :</h3></th>
+			<th><h3 align="left">Softwares :</h3></th>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">
+					<!--<img src="https://skillicons.dev/icons?i=docker" alt="DevOps"/>-->
+				</p>
+			</td>
+			<td>
+				<p align="center">
+					<!--<img src="https://skillicons.dev/icons?i=symfony,react" alt="Frameworks"/>-->
+				</p>
+			</td>
+			<td>
+				<p align="center">
+					<img src="https://skillicons.dev/icons?i=sublime,vscode" alt="Softwares"/>
+				</p>
+			</td>
+		</tr>
+	</table> 
 	<h3>➜ Programmming languages :</h3>
 	<table>
 		<tr>
