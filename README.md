@@ -30,7 +30,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img align="center src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
+				<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
 			</td>
 			<td>
 				<img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
@@ -41,9 +41,7 @@
 	<table>
 		<tr>
 			<td>
-				<p align="left">
-					<img src="https://skillicons.dev/icons?i=c,python" alt="Frontend Development"/>
-				</p>
+				<img src="https://skillicons.dev/icons?i=c,python" alt="Frontend Development"/>
 			</td>
 		</tr>
     </table>  
