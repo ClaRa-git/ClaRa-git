@@ -24,24 +24,28 @@
 	<hr>
 	<h3>Web Development :</h3>
 	<table>
-              <td>
-                  <div class="skills-section">
-                      <h3 align="left">Frontend Development :</h3>
-                      <p align="left">
-                          <a href="https://skillicons.dev">
-                              <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
-                          </a>
-                      </p>
-                  </div>
-                  <div class="skills-section">
-                      <h3 align="left">Backend Development :</h3>
-                      <p align="left">
-                          <a href="https://skillicons.dev">
-                              <img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
-                          </a>
-                      </p>
-                  </div>
-              </td>
+		<tr>
+			<th><h3 align="left">Frontend Development :</h3></th>
+	                <th><h3 align="left">Backend Development :</h3></th>
+		</tr>
+		<tr>
+			<td>
+	                  <div class="skills-section">
+	                      <p align="left">
+	                          <a href="https://skillicons.dev">
+	                              <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
+	                          </a>
+	                      </p>
+	                  </div>
+	                  <div class="skills-section">
+	                      <p align="left">
+	                          <a href="https://skillicons.dev">
+	                              <img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
+	                          </a>
+	                      </p>
+	                  </div>
+	              </td>
+		</tr>
       </table>   
 	<h3>Programmming languages :</h3>
 </body>
