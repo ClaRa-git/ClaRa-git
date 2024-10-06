@@ -18,9 +18,8 @@
 			</tr>
 			<tr>
 				<td>
-					<a href="" target="blank"
+					<a align="center" href="" target="blank"
 					><img
-						align="center"
 						src="https://skillicons.dev/icons?i=linkedin"
 						alt="claire-rameau-linkedin"
 						height="50"
@@ -28,9 +27,8 @@
 					/></a>
 				</td>
 				<td>
-					<a href="mailto:rameau.claire.cr@gmail.com" target="blank"
+					<a align="center" href="mailto:rameau.claire.cr@gmail.com" target="blank"
 					><img
-						align="center"
 						src="https://skillicons.dev/icons?i=gmail"
 						alt="claire-rameau-email"
 						height="50"
@@ -38,9 +36,8 @@
 					/></a>
 				</td>
 				<td>
-					<a href="mailto:claire.rameau@lidem.education" target="blank"
+					<a align="center" href="mailto:claire.rameau@lidem.education" target="blank"
 					><img
-						align="center"
 						src="https://skillicons.dev/icons?i=gmail"
 						alt="claire-rameau-idem-email"
 						height="50"
