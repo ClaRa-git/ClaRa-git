@@ -30,30 +30,21 @@
 		</tr>
 		<tr>
 			<td>
-	                      <p align="left">
-	                              <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
-	                      </p>
+				<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
 			</td>
 			<td>
-	                      <p align="left">
-	                              <img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
-	                      </p>
-	              </td>
+				<img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
+			</td>
 		</tr>
-      </table>   
+	</table>   
 	<h3>Programmming languages :</h3>
 	<table>
 		<tr>
 			<td>
-	                      <p align="left">
-	                              <img src="https://skillicons.dev/icons?i=c,python" alt="Frontend Development"/>
-	                      </p>
+				<p align="left">
+					<img src="https://skillicons.dev/icons?i=c,python" alt="Frontend Development"/>
+				</p>
 			</td>
-			<td>
-	                      <p align="left">
-	                              <img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
-	                      </p>
-	              </td>
 		</tr>
-      </table>  
+    </table>  
 </body>
