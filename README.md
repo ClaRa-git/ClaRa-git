@@ -7,13 +7,13 @@
 		<table>
 			<tr>
 				<td>
-					Linkedin
+					<h3 align="center">Linkedin</h3>
 				</td>
 				<td>
-					Gmail
+					<h3 align="center">Gmail</h3>
 				</td>
 				<td>
-					Mail IDEM
+					<h3 align="center">Mail IDEM</h3>
 				</td>
 			</tr>
 			<tr>
