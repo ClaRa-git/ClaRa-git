@@ -1,6 +1,6 @@
 <body>
 	<h1 align="center">Hi, I'm Claire RAMEAU 👋</h1>
-	<h3>Currently a student at <a href="https://lidem.eu/" target="blank">L'IDEM</a> in Web Development</h3>
+	<h3 align="center">Currently a student at <a href="https://lidem.eu/" target="blank">L'IDEM</a> in Web Development</h3>
 	<hr>
 	<h3 align="left">Contact info :</h3>
 	<p align="left">
@@ -62,10 +62,14 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
+				<p align="center">
+					<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
+				</p>
 			</td>
 			<td>
-				<img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
+				<p align="center">
+					<img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
+				</p>
 			</td>
 		</tr>
 	</table>   
@@ -73,7 +77,9 @@
 	<table>
 		<tr>
 			<td>
-				<img src="https://skillicons.dev/icons?i=c,python" alt="Frontend Development"/>
+				<p align="center">
+					<img src="https://skillicons.dev/icons?i=c,python" alt="Frontend Development"/>
+				</p>
 			</td>
 		</tr>
     	</table>
