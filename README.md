@@ -68,7 +68,7 @@
 			</td>
 			<td>
 				<p align="center">
-					<img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
+					<img src="https://skillicons.dev/icons?i=php,mysql" alt="Backend Development"/>
 				</p>
 			</td>
 		</tr>
@@ -78,7 +78,7 @@
 		<tr>
 			<td>
 				<p align="center">
-					<img src="https://skillicons.dev/icons?i=c,python" alt="Frontend Development"/>
+					<img src="https://skillicons.dev/icons?i=c,py" alt="Frontend Development"/>
 				</p>
 			</td>
 		</tr>
