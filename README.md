@@ -2,7 +2,7 @@
 	<h1 align="center">Hi, I'm Claire RAMEAU 👋</h1>
 	<h3 align="center">Currently a student at <a href="https://lidem.eu/" target="blank">L'IDEM</a> in Web Development</h3>
 	<hr>
-	<h3 align="left">Contact info :</h3>
+	<h3 align="left"><u>Contact info</u> :</h3>
 	<p align="left">
 		<table>
 			<tr>
@@ -54,7 +54,7 @@
 		<table>
 	</p>
 	<hr>
-	<h3>Web Development :</h3>
+	<h3><u>Web Development</u> :</h3>
 	<table>
 		<tr>
 			<th><h3 align="left">Frontend Development :</h3></th>
@@ -73,7 +73,7 @@
 			</td>
 		</tr>
 	</table>   
-	<h3>Programmming languages :</h3>
+	<h3><u>Programmming languages</u> :</h3>
 	<table>
 		<tr>
 			<td>
@@ -84,7 +84,7 @@
 		</tr>
     	</table>
 	<hr>
-	<h3>My repositories :</h3>
+	<h3><u>My repositories</u> :</h3>
 	 <p align="left">
 	    <a href="https://github.com/ClaRa-git?tab=repositories" target="_blank"
 	      ><img
