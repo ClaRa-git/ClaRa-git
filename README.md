@@ -1,3 +1,4 @@
+<!--Lien vers Github -> https://github.com/ClaRa-git -->
 <body>
 	<h1 align="center">Hi, I'm Claire RAMEAU 👋</h1>
 	<h3 align="center">Currently a student at <a href="https://lidem.eu/" target="blank">L'IDEM</a> in Web Development</h3>
