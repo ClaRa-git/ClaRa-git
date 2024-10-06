@@ -5,7 +5,7 @@
 	<h3 align="left">Contact info :</h3>
 	<p align="left">
 		<a href="" target="blank"
-		><img
+		>Linkedin <img
 			align="center"
 			src="https://skillicons.dev/icons?i=linkedin"
 			alt="claire-rameau-linkedin"
@@ -13,7 +13,7 @@
 			width="60"
 		/></a>
 		<a href="mailto:rameau.claire.cr@gmail.com" target="blank"
-		><img
+		>GMAIL <img
 			align="center"
 			src="https://skillicons.dev/icons?i=gmail"
 			alt="claire-rameau-email"
