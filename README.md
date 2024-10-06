@@ -24,7 +24,6 @@
 	<hr>
 	<h3>Web Development :</h3>
 	<table>
-          <tr>
               <td>
                   <div class="skills-section">
                       <h3 align="left">Frontend Development :</h3>
@@ -43,7 +42,6 @@
                       </p>
                   </div>
               </td>
-          </tr>
       </table>   
 	<h3>Programmming languages :</h3>
 </body>
