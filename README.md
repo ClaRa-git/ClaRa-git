@@ -82,11 +82,13 @@
 		<tr>
 			<td>
 				<p align="center">
+					en cours...
 					<!--<img src="https://skillicons.dev/icons?i=docker" alt="DevOps"/>-->
 				</p>
 			</td>
 			<td>
 				<p align="center">
+					en cours...
 					<!--<img src="https://skillicons.dev/icons?i=symfony,react" alt="Frameworks"/>-->
 				</p>
 			</td>
