@@ -30,22 +30,14 @@
 		</tr>
 		<tr>
 			<td>
-	                  <div class="skills-section">
 	                      <p align="left">
-	                          <a href="https://skillicons.dev">
 	                              <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Development"/>
-	                          </a>
 	                      </p>
-	                  </div>
 			</td>
 			<td>
-	                  <div class="skills-section">
 	                      <p align="left">
-	                          <a href="https://skillicons.dev">
 	                              <img src="https://skillicons.dev/icons?i=php" alt="Backend Development"/>
-	                          </a>
 	                      </p>
-	                  </div>
 	              </td>
 		</tr>
       </table>   
