@@ -28,23 +28,27 @@
 						/></a>
 					</p>
 				</td>
-				<td>
-					<a href="mailto:rameau.claire.cr@gmail.com" target="blank"
-					><img
-						src="https://skillicons.dev/icons?i=gmail"
-						alt="claire-rameau-email"
-						height="50"
-						width="60"
-					/></a>
+				<td>				
+					<p align="center">
+						<a href="mailto:rameau.claire.cr@gmail.com" target="blank"
+						><img
+							src="https://skillicons.dev/icons?i=gmail"
+							alt="claire-rameau-email"
+							height="50"
+							width="60"
+						/></a>
+					</p>
 				</td>
 				<td>
-					<a href="mailto:claire.rameau@lidem.education" target="blank"
-					><img
-						src="https://skillicons.dev/icons?i=gmail"
-						alt="claire-rameau-idem-email"
-						height="50"
-						width="60"
-					/></a>
+					<p align="center">
+						<a href="mailto:claire.rameau@lidem.education" target="blank"
+						><img
+							src="https://skillicons.dev/icons?i=gmail"
+							alt="claire-rameau-idem-email"
+							height="50"
+							width="60"
+						/></a>
+					</p>
 				</td>
 			</tr>
 		<table>
