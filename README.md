@@ -1,6 +1,7 @@
 <body>
 	<h1 align="center">Hi, I'm Claire RAMEAU 👋</h1>
-	<h3 align="left">Currently a student at L'IDEM</h3>
+	<h3 align="left">Currently a student at L'IDEM  in Web Development</h3>
+	<hr>
 	<h3 align="left">Contact info :</h3>
 	<p align="left">
     <a href="" target="blank"
