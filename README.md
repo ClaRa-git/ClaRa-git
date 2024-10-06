@@ -38,8 +38,6 @@
 	                      </p>
 	                  </div>
 			</td>
-		</tr>
-		<tr>
 			<td>
 	                  <div class="skills-section">
 	                      <p align="left">
