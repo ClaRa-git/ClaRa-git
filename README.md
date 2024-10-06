@@ -18,13 +18,15 @@
 			</tr>
 			<tr>
 				<td>
-					<a href="" target="blank"
-					><img
-						src="https://skillicons.dev/icons?i=linkedin"
-						alt="claire-rameau-linkedin"
-						height="50"
-						width="60"
-					/></a>
+					<p align="center">
+						<a href="" target="blank"
+						><img
+							src="https://skillicons.dev/icons?i=linkedin"
+							alt="claire-rameau-linkedin"
+							height="50"
+							width="60"
+						/></a>
+					</p>
 				</td>
 				<td>
 					<a href="mailto:rameau.claire.cr@gmail.com" target="blank"
