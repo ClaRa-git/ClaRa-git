@@ -4,22 +4,51 @@
 	<hr>
 	<h3 align="left">Contact info :</h3>
 	<p align="left">
-		<a href="" target="blank"
-		>Linkedin <img
-			align="center"
-			src="https://skillicons.dev/icons?i=linkedin"
-			alt="claire-rameau-linkedin"
-			height="50"
-			width="60"
-		/></a>
-		<a href="mailto:rameau.claire.cr@gmail.com" target="blank"
-		>GMAIL <img
-			align="center"
-			src="https://skillicons.dev/icons?i=gmail"
-			alt="claire-rameau-email"
-			height="50"
-			width="60"
-		/></a>
+		<table>
+			<tr>
+				<td>
+					Linkedin
+				</td>
+				<td>
+					Gmail
+				</td>
+				<td>
+					Mail IDEM
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="" target="blank"
+					><img
+						align="center"
+						src="https://skillicons.dev/icons?i=linkedin"
+						alt="claire-rameau-linkedin"
+						height="50"
+						width="60"
+					/></a>
+				</td>
+				<td>
+					<a href="mailto:rameau.claire.cr@gmail.com" target="blank"
+					><img
+						align="center"
+						src="https://skillicons.dev/icons?i=gmail"
+						alt="claire-rameau-email"
+						height="50"
+						width="60"
+					/></a>
+				</td>
+				<td>
+					<a href="mailto:claire.rameau@lidem.education" target="blank"
+					><img
+						align="center"
+						src="https://skillicons.dev/icons?i=gmail"
+						alt="claire-rameau-idem-email"
+						height="50"
+						width="60"
+					/></a>
+				</td>
+			</tr>
+		<table>
 	</p>
 	<hr>
 	<h3>Web Development :</h3>
