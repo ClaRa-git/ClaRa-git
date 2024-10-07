@@ -20,7 +20,7 @@
 			<tr>
 				<td>
 					<p align="center">
-						<a href="" target="blank"
+						<a href="https://www.linkedin.com/in/claire-rameau-67a7b6331/" target="blank"
 						><img
 							src="https://skillicons.dev/icons?i=linkedin"
 							alt="claire-rameau-linkedin"
